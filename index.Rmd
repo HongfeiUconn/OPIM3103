@@ -1,5 +1,5 @@
 ---
-title: "OPIM 3104, Spring 2018"
+title: "OPIM 3103, Spring 2018"
 knit: (function(input_file, encoding) {
   out_dir <- 'docs';
   rmarkdown::render(input_file,
@@ -17,7 +17,7 @@ output:
 
 ## Welcome!
 
-This the official website of OPIM 3104, Spring 2018. Here is some basic info about our course:
+This the official website of OPIM 3103, Fall 2018. Here is some basic info about our course:
 
 \vspace{1cm}
 
@@ -31,14 +31,8 @@ This the official website of OPIM 3104, Spring 2018. Here is some basic info abo
 
 \vspace{1cm}
 
-* TAs:
-    * Aindrila Chakraborty: Aindrila.Chakraborty@uconn.edu Thu 3:30-4:30 pm
-    * Yucheng Chen: Yucheng.chen@uconn.edu Tue 3:30-4:30 pm
-
-\vspace{1cm}
-
 * Office hours:
-    * Tue/Thu 12:30-1:30 pm (BUSN 407E)
+    * Mon/Wed 12:30-1:30 pm (BUSN 407E)
 
 \vspace{1cm}
 
