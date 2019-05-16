@@ -77,6 +77,16 @@ Class participation is required and will be evaluated by having in-class assignm
 
 CIMBA event is scheduled to be held in the Rome Ballroom on Tuesday 10/16, 5:30 – 8:00 pm. 
 
+Here is the breakdown of how grades will be evaluated:  
+
+```{r echo = FALSE, warning = FALSE}
+library(knitr)
+options(knitr.kable.NA = '')
+library(data.table)
+grading = fread("grading.csv")
+kable(grading)
+
+```
 
 ***
 
