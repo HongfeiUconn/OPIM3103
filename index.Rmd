@@ -22,12 +22,21 @@ This the official website of OPIM 3103, Fall 2018. Here is some basic info about
 \vspace{1cm}
 
 * Lectures: (__Please go to your registered section!__)
-    * Decision Making Tools
-    * Forecasting
-    * Project Management
-    * Inventory Management
-    * Linear Programming
-    * Introduction to Monte Carlo Simulation
+    * Excel
+        * Formula and Functions
+        * Charts
+        * Subtotals, PivotTables, PivotCharts
+        * Specialized Functions
+        * Templates, Styles, and Macros
+    * Database
+        * Introduction to Access
+        * Rational Databases
+        * Select Queries
+        * Data Validation and Data Analysis
+        * Action Queries
+        * Database Theories
+
+
 
 \vspace{1cm}
 
