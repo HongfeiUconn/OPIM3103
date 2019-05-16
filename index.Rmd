@@ -1,0 +1,49 @@
+---
+title: "OPIM 3104, Spring 2018"
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
+author: "Brought to you by: [Hongfei Li](https://www.business.uconn.edu/person/hongfei-li/){target='_blank'}"
+date: "Last Updated: `r format(Sys.time(), '%B %d, %Y')`"
+fontsize: 12pt
+output: 
+  html_document:
+    includes:
+      in_header: "favicon.html"
+---
+
+
+## Welcome!
+
+This the official website of OPIM 3104, Spring 2018. Here is some basic info about our course:
+
+\vspace{1cm}
+
+* Lectures: (__Please go to your registered section!__)
+    * Decision Making Tools
+    * Forecasting
+    * Project Management
+    * Inventory Management
+    * Linear Programming
+    * Introduction to Monte Carlo Simulation
+
+\vspace{1cm}
+
+* TAs:
+    * Aindrila Chakraborty: Aindrila.Chakraborty@uconn.edu Thu 3:30-4:30 pm
+    * Yucheng Chen: Yucheng.chen@uconn.edu Tue 3:30-4:30 pm
+
+\vspace{1cm}
+
+* Office hours:
+    * Tue/Thu 12:30-1:30 pm (BUSN 407E)
+
+\vspace{1cm}
+
+### Announcements:
+
+The announcement will keep updating during the whole semester.
+
+\vspace{1cm}
