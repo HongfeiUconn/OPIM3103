@@ -35,42 +35,6 @@ The course focuses on two major goals:
 * Introduction to Microsoft Excel and the design of spreadsheets to enable efficient decision making in business situations, through hands-on learning activities; 
 * Introduction to basic knowledge of databases, the design of databases, and database tools such as Microsoft Access to enable efficient data management and reporting in business situations, again through hands-on learning activities; 
 
-
-***
-
-# Course Content
-
-Tentative subjects include:
-
-* Decision Making Tools:
-    * Decision strategy
-    * Decision table
-    * Decision tree
-    * Review on Excel
-* Forecasting:
-    * One-variable forecasting: moving average, weighted moving average, exponential smoothing
-    * Multiple-variable forecasting: linear regression
-    * Forecasting evaluation: mean absolute deviation, R-squared
-    * Extension: Causal inference, machine learning and deep learning
-* Project Management:
-    * WBS and AON graph
-    * Critical path method (CPM)
-    * Program evaluation and review technique (PERT)
-    * Project crashing
-* Inventory Management:
-    * Economic order quantity (EOQ) model
-    * Production order quantity (POQ) model
-    * Quantity discount models
-* Linear Programming:
-    * Formulation
-    * Graphical solution method
-    * Integer programming
-* Introduction to Monte Carlo Simulation:
-    * Functions in Excel
-    * Simple examples
-    * What-if analysis
-
-
 ***
 
 # Textbooks 
@@ -135,9 +99,10 @@ Behavior that appears to be cheating should be prevented by students and/or repo
 
 ```{r echo = FALSE, warning = FALSE}
 library(knitr)
+options(knitr.kable.NA = '')
 library(data.table)
 schedule = fread("schedule.csv")
-kable(schedule, caption = "Tentative Schedule")
+kable(schedule)
 
 ```
 
