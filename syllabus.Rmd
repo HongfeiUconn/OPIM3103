@@ -131,6 +131,17 @@ Behavior that appears to be cheating should be prevented by students and/or repo
 
 
 *** 
+# Tentative Schedule
+
+```{r echo = FALSE, warning = FALSE}
+library(knitr)
+library(data.table)
+schedule = fread("schedule.csv")
+kable(schedule, caption = "Tentative Schedule")
+
+```
+
+***
 
 # Attendence 
 
@@ -140,4 +151,4 @@ You are expected to attend all lectures and discussions. Failure to do so may no
 
 # Disclaimer
 
-The instructors reserve the right to amend, adjust, or otherwise modify this course outline at any time during the course. The students will be notified in a timely fashion of any modification, by email or announcement in class. 
+The instructors reserve the right to amend, adjust, or otherwise modify this course outline at any time during the course. The students will be notified in a timely fashion of any modification, by email or announcement in class.  
