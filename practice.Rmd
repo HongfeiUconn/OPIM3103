@@ -1,0 +1,27 @@
+---
+title: "Practice Problems"
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'practice.html'))})
+date: "Last Updated: `r format(Sys.time(), '%B %e, %Y')`"
+fontsize: 12pt
+output: 
+  html_document:
+    includes:
+      in_header: "favicon.html" 
+---
+
+Problem sets are not mandatory but it is highly recommended to finish all the problem sets. Questions in these problem sets are similar to questions in your quizzes and exams. Good luck!
+
+***
+Problem Set - Table Design: <a href="ProblemSetTableDesign.pdf#" class="download" title="Table Design">Download</a>
+
+Problem Set - SQL 1: <a href="ProblemSetSQL1.pdf#" class="download" title="SQL 1">Download</a>
+
+Problem Set - SQL 2: <a href="ProblemSetSQL2.pdf#" class="download" title="SQL 2">Download</a>
+
+Problem Set - Database Design: <a href="ProblemSetDatabase.pdf#" class="download" title="Database Design">Download</a>
+
+

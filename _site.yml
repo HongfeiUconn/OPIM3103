@@ -8,8 +8,8 @@ navbar:
       href: syllabus.html
     - text: "Lecture Notes"
       href: lecture.html
-    - text: "Homework"
-      href: homework.html
+    - text: "Pratice"
+      href: practice.html
     - text: "Data"
       href: data.html
 
