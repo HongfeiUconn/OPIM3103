@@ -1,5 +1,5 @@
 ---
-title: "Homework"
+title: "Practice Problems"
 knit: (function(input_file, encoding) {
   out_dir <- 'docs';
   rmarkdown::render(input_file,
@@ -13,16 +13,15 @@ output:
       in_header: "favicon.html" 
 ---
 
-Homework is not mandatory but it is highly recommended to finish all the problem sets. Questions in these problem sets are similar to questions in your quizzes and exams. Good luck!
+Problem sets are not mandatory but it is highly recommended to finish all the problem sets. Questions in these problem sets are similar to questions in your quizzes and exams. Good luck!
 
 ***
-Introduction to SQL and Access: <a href="IntroSQL.pdf#" class="download" title="Introduction to SQL and Access">Lecture Notes</a>
+Problem Set - Table Design: <a href="ProblemSetTableDesign.pdf#" class="download" title="Table Design">Download</a>
 
-Where Condition: <a href="Where.pdf#" class="download" title="Where Condition">Lecture Notes</a>
+Problem Set - SQL 1: <a href="ProblemSetSQL1.pdf#" class="download" title="SQL 1">Download</a>
 
-Aggregate Function: <a href="AggFun.pdf#" class="download" title="Aggregate Function">Lecture Notes</a>
+Problem Set - SQL 2: <a href="ProblemSetSQL2.pdf#" class="download" title="SQL 2">Download</a>
 
-Group By: <a href="GroupBy.pdf#" class="download" title="Group By">Lecture Notes</a>
+Problem Set - Database Design: <a href="ProblemSetDatabase.pdf#" class="download" title="Database Design">Download</a>
 
-Database Design: <a href="Database.pdf#" class="download" title="Database Design">Lecture Notes</a>
 

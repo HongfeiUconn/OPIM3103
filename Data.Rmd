@@ -16,13 +16,16 @@ output:
 You can download all the data files of this class here.
 
 ***
-
+* Data files for SQL practice
+    * <a href="/Players.xlsx" download="w3logo">Players.xlsx</a>
+ 
 * Data files for join.
-    * <a href="/join.accdb" download="w3logo">join.accdb</a>
-    * <a href="/departments.xlsx" download="w3logo">departments.xlsx</a>
-    * <a href="/students.xlsx" download="w3logo">students.xlsx</a>
-    * <a href="/join.xlsx" download="w3logo">join.xlsx</a>
-    
+    * <a href="/join/join.accdb" download="w3logo">join.accdb</a>
+    * <a href="/join/departments.xlsx" download="w3logo">departments.xlsx</a>
+    * <a href="/join/students.xlsx" download="w3logo">students.xlsx</a>
+    * <a href="/join/join.xlsx" download="w3logo">join.xlsx</a>
+
+
 * Data files for Group by.
     * <a href="/group by/gradebook.xlsx" download="w3logo">gradebook.xlsx</a>
     * <a href="/group by/groupby.accdb" download="w3logo">groupby.accdb</a>
