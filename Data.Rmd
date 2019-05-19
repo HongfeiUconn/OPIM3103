@@ -1,0 +1,29 @@
+---
+title: "Weekly Lecture Notes"
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'data.html'))})
+date: "Last Updated: `r format(Sys.time(), '%B %e, %Y')`"
+fontsize: 12pt
+output: 
+  html_document:
+    includes:
+      in_header: "favicon.html"
+---
+
+You can download all the data files of this class here.
+
+***
+
+* Data files for join.
+    * <a href="/join.accdb" download="w3logo">join.accdb</a>
+    * <a href="/departments.xlsx" download="w3logo">departments.xlsx</a>
+    * <a href="/students.xlsx" download="w3logo">students.xlsx</a>
+    * <a href="/join.xlsx" download="w3logo">join.xlsx</a>
+    
+* Data files for Group by.
+    * <a href="/group by/gradebook.xlsx" download="w3logo">gradebook.xlsx</a>
+    * <a href="/group by/groupby.accdb" download="w3logo">groupby.accdb</a>
+    * <a href="/group by/results.xlsx" download="w3logo">results.xlsx</a>

@@ -16,14 +16,13 @@ output:
 Homework is not mandatory but it is highly recommended to finish all the problem sets. Questions in these problem sets are similar to questions in your quizzes and exams. Good luck!
 
 ***
-Decision Tool: [**Problem Set 1**](https://github.com/HongfeiUconn/Teaching/blob/master/Operations%20Management/Lecture%20Notes/Chapter%201.%20Decision.pdf){target='_blank'}
+Introduction to SQL and Access: <a href="IntroSQL.pdf#" class="download" title="Introduction to SQL and Access">Lecture Notes</a>
 
-Forecasting: [**Problem Set 2**](https://github.com/HongfeiUconn/Teaching/blob/master/Operations%20Management/Lecture%20Notes/Chapter%201.%20Decision.pdf){target='_blank'}
+Where Condition: <a href="Where.pdf#" class="download" title="Where Condition">Lecture Notes</a>
 
-Project Management: [**Problem Set 3**](https://github.com/HongfeiUconn/Teaching/blob/master/Operations%20Management/Lecture%20Notes/Chapter%201.%20Decision.pdf){target='_blank'}
+Aggregate Function: <a href="AggFun.pdf#" class="download" title="Aggregate Function">Lecture Notes</a>
 
-Inventory Management: [**Problem Set 4**](https://github.com/HongfeiUconn/Teaching/blob/master/Operations%20Management/Lecture%20Notes/Chapter%201.%20Decision.pdf){target='_blank'}
+Group By: <a href="GroupBy.pdf#" class="download" title="Group By">Lecture Notes</a>
 
-Linear Programming: [**Problem Set 5**](https://github.com/HongfeiUconn/Teaching/blob/master/Operations%20Management/Lecture%20Notes/Chapter%201.%20Decision.pdf){target='_blank'}
+Database Design: <a href="Database.pdf#" class="download" title="Database Design">Lecture Notes</a>
 
-Monte Carlo Simulation: [**Problem Set 6**](https://github.com/HongfeiUconn/Teaching/blob/master/Operations%20Management/Lecture%20Notes/Chapter%201.%20Decision.pdf){target='_blank'}
